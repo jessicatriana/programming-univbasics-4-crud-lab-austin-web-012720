@@ -8,8 +8,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- days = ["Monday", "Tuesday", "Wednesday"]
-  days << "Thursday"
+  array << element
   
 end
 
