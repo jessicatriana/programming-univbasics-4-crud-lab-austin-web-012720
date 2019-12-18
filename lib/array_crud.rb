@@ -8,8 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- animals = ["cat", "dog", "horse", "mouse"]
-  animals << "bunny"
+ days = ["Monday", "Tuesday", "Wednesday"]
+  days << "Thursday"
   
 end
 
